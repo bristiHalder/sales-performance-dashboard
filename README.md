@@ -92,6 +92,9 @@ An interactive dashboard was created to visualize:
 
 The dashboard includes filters for region, category, and year to enable dynamic analysis.
 
+### Live Dashboard
+Tableau Public link: https://public.tableau.com/app/profile/bristi.halder/viz/sales_dashboard_17696833506540/Dashboard1?publish=yes
+
 ---
 
 ## Key Insights
