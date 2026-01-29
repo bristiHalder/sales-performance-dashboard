@@ -31,6 +31,7 @@ The project follows an end-to-end data analytics workflow, from data cleaning an
 ---
 
 ## Project Structure
+```text
 sales-analysis-project/
 ├── data/
 │   ├── raw_data.csv
@@ -46,6 +47,8 @@ sales-analysis-project/
 │   └── sales_dashboard.twbx
 │
 └── README.md
+```
+
 
 
 ---
